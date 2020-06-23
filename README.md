@@ -1,5 +1,4 @@
-# Running deep VOG in Google Colab
-
+# Running deep VOG 
 DeepVOG is a open-source framework for pupil segmentation and gaze estimation based on a fully convolutional neural network. This was established by Yuk-HoiYiu. et al, and presented as below: <br>
 
 GitHub: https://github.com/pydsgz/DeepVOG <br>
